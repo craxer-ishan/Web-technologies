@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Rubik+Vinyl&display=swap');
+*{
+    background-color: gray;
+    
+}
+h1{
+    background-color:black ;
+    color:wheat ;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 0 0 3px #FF0000;
+}
+img{
+    width: 600px;
+
+}
+img:hover{
+    transform: scaleX(-1);
+}
+footer{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: aquamarine;
+    padding: 20px;
+    width: 150px;
+}
